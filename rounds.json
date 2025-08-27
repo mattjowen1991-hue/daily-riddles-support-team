@@ -1,9 +1,16 @@
 [
   {
-    "date": "2025-08-25",
+    "date": "2025-08-27",
     "season": "2025 S1",
-    "title": "TBA",
-    "link": "",
+    "title": "There is a one-story house in which everything is yellow. Yellow walls, yellow doors, yellow furniture. What color are the stairs?",
+    "link": "https://netsoftllc.slack.com/archives/C028U6QKVAR/p1756196793113309",
+    "scores": { "AlexanderO": 0, "Martin": 0, "Mercy": 0, "Orest": 0, "Preethi": 1, "Talita": 0 }
+  },
+  {
+    "date": "2025-08-28",
+    "season": "2025 S1",
+    "title": "There are two ducks in front of a duck, two ducks behind a duck and one in the middle. How many ducks are there?",
+    "link": "https://netsoftllc.slack.com/archives/C028U6QKVAR/p1756304532990139",
     "scores": { "AlexanderO": 0, "Martin": 0, "Mercy": 0, "Orest": 0, "Preethi": 0, "Talita": 0 }
   }
 ]
