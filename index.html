@@ -253,7 +253,7 @@ a:hover { text-decoration-color: rgba(0,0,255,.8); }
 
   function renderRecentRounds(rounds, playersById){
     const list = document.getElementById('recentRounds');
-    const last = rounds.slice(-10).reverse();
+    const last = rounds.slice(-2).reverse();
     list.innerHTML = last.map(r=>{
       const entries = Object.entries(r.scores || {})
         .filter(([,pts])=>pts>0)
