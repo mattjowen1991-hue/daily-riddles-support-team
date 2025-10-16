@@ -161,10 +161,17 @@
     "scores": { "AlexanderO": 0, "Martin": 0, "Mercy": 1, "Orest": 1, "Preethi": 0, "Talita": 1 }
     },
   {
-    "date": "2025-10-13",
+    "date": "2025-10-15",
     "season": "2025 S1",
     "title": " Riddle: What has one eye but can’t see?",
     "link": "https://netsoftllc.slack.com/archives/C028U6QKVAR/p1760518425167209",
+    "scores": { "AlexanderO": 0, "Martin": 0, "Mercy": 1, "Orest": 1, "Preethi": 0, "Talita": 0 }
+    },
+  {
+    "date": "2025-10-16",
+    "season": "2025 S1",
+    "title": " What English word has three consecutive double letters?",
+    "link": "https://netsoftllc.slack.com/archives/C028U6QKVAR/p1760602959169029",
     "scores": { "AlexanderO": 0, "Martin": 0, "Mercy": 0, "Orest": 0, "Preethi": 0, "Talita": 0 }
     }
 ]
