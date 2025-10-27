@@ -196,9 +196,16 @@
     "scores": { "AlexanderO": 1, "Martin": 0, "Mercy": 1, "Orest": 0, "Preethi": 0, "Talita": 1 }
     },
   {
-    "date": "2025-10-25",
+    "date": "2025-10-27",
     "season": "2025 S1",
     "title": "Two men are in a desert. They both have backpacks on. One of the guys is dead. The guy who is alive has his backpack open and the guy who is dead has his backpack closed. What is in the dead man’s backpack?",
+    "link": "https://netsoftllc.slack.com/archives/C028U6QKVAR/p1761548411416559",
+    "scores": { "AlexanderO": 0, "Martin": 0, "Mercy": 0, "Orest": 0, "Preethi": 0, "Talita": 0 }
+    },
+  {
+    "date": "2025-10-28",
+    "season": "2025 S1",
+    "title": "How many Friday the 13ths can there be in one calendar year?",
     "link": "https://netsoftllc.slack.com/archives/C028U6QKVAR/p1761207792212999",
     "scores": { "AlexanderO": 0, "Martin": 0, "Mercy": 0, "Orest": 0, "Preethi": 0, "Talita": 0 }
     }
