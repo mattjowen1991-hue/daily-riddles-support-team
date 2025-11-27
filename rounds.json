@@ -263,6 +263,20 @@
     "season": "2025 S1",
     "title": "I’m bought by the meter, but worn by the foot. What am I?",
     "link": "https://netsoftllc.slack.com/archives/C028U6QKVAR/p1764052200929859",
+    "scores": { "AlexanderO": 0, "Martin": 0, "Mercy": 0, "Orest": 1, "Preethi": 0, "Talita": 1 }
+    },
+  {
+    "date": "2025-11-26",
+    "season": "2025 S1",
+    "title": "A man stands on one side of a river, his dog on the other. The man calls the dog, who crosses the river without getting wet and without using a bridge or boat. How??",
+    "link": "https://netsoftllc.slack.com/archives/C028U6QKVAR/p1764138600329429",
+    "scores": { "AlexanderO": 0, "Martin": 0, "Mercy": 0, "Orest": 0, "Preethi": 1, "Talita": 0 }
+    },
+  {
+    "date": "2025-11-27",
+    "season": "2025 S1",
+    "title": "A king has three identical boxes. One contains gold, one contains silver, one is empty. Each box has a label, but all labels are wrong: “Gold” “Silver” “Empty”. You may open one box and look inside, but you may not move the contents. How can you work out which box has the gold?",
+    "link": "https://netsoftllc.slack.com/archives/C028U6QKVAR/p1764237036854929",
     "scores": { "AlexanderO": 0, "Martin": 0, "Mercy": 0, "Orest": 0, "Preethi": 0, "Talita": 0 }
     }
 ]
