@@ -278,5 +278,12 @@
     "title": "A king has three identical boxes. One contains gold, one contains silver, one is empty. Each box has a label, but all labels are wrong: “Gold” “Silver” “Empty”. You may open one box and look inside, but you may not move the contents. How can you work out which box has the gold?",
     "link": "https://netsoftllc.slack.com/archives/C028U6QKVAR/p1764237036854929",
     "scores": { "AlexanderO": 0, "Martin": 0, "Mercy": 0, "Orest": 0, "Preethi": 1, "Talita": 0 }
+    },
+  {
+    "date": "2025-11-28",
+    "season": "2025 S1",
+    "title": "At noon, a digital clock shows 12:00. How many times will the two digits be exactly the same (00, 11, 22, etc.) between 12:00 noon and 11:59 at night?",
+    "link": "https://netsoftllc.slack.com/archives/C028U6QKVAR/p1764309604073469",
+    "scores": { "AlexanderO": 0, "Martin": 0, "Mercy": 0, "Orest": 0, "Preethi": 0, "Talita": 0 }
     }
 ]
