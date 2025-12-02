@@ -285,5 +285,12 @@
     "title": "At noon, a digital clock shows 12:00. How many times will the two digits be exactly the same (00, 11, 22, etc.) between 12:00 noon and 11:59 at night?",
     "link": "https://netsoftllc.slack.com/archives/C028U6QKVAR/p1764309604073469",
     "scores": { "AlexanderO": 0, "Martin": 0, "Mercy": 0, "Orest": 0, "Preethi": 0, "Talita": 0 }
+    },
+  {
+    "date": "2025-12-01",
+    "season": "2025 S1",
+    "title": "You must cross a river with a wolf, a goat, and a cabbage. Your boat can carry only you and one of them at a time. If left alone: The wolf will eat the goat. The goat will eat the cabbage. How do you get all three safely across?",
+    "link": "https://netsoftllc.slack.com/archives/C028U6QKVAR/p1764568801942449",
+    "scores": { "AlexanderO": 0, "Martin": 0, "Mercy": 0, "Orest": 1, "Preethi": 0, "Talita": 0 }
     }
 ]
